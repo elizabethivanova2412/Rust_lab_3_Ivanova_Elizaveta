@@ -439,7 +439,7 @@ $ cargo build
 $ cargo run
 ```
 
-**Результат выполнения**
+### Выполнение программы:
 
 ![Выполнение программы](https://raw.githubusercontent.com/elizabethivanova2412/Rust_lab_3_Ivanova_Elizaveta/main/1.png)
 ![Выполнение программы](https://raw.githubusercontent.com/elizabethivanova2412/Rust_lab_3_Ivanova_Elizaveta/main/2.png)
